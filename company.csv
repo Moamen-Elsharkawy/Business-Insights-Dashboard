@@ -1,0 +1,145 @@
+Year,Quarter,Branch,Location,ProductCategory,Revenue,Expenses,Profit,Employees,SalesRegion,MarketShare,TotalCustomers,NumPurchasedProducts
+2020,Q1,Berlin Branch,Berlin,Laptops,408353,258756,149597,130,Europe,15%,4100,950
+2020,Q1,Berlin Branch,Berlin,Mobile Devices,448516,255215,193301,130,Europe,18%,3900,920
+2020,Q1,Berlin Branch,Berlin,Consoles,429429,297115,132314,130,Europe,22%,4300,980
+2020,Q1,London Branch,London,Laptops,414693,216112,198581,120,Europe,15%,3600,800
+2020,Q1,London Branch,London,Mobile Devices,479937,223439,256498,120,Europe,18%,3400,750
+2020,Q1,London Branch,London,Consoles,427522,225279,202243,120,Europe,20%,3800,900
+2020,Q1,New York HQ,New York,Laptops,409329,260952,148377,150,North America,18%,4500,1000
+2020,Q1,New York HQ,New York,Mobile Devices,490238,295564,194674,150,North America,20%,4300,950
+2020,Q1,New York HQ,New York,Consoles,443521,287109,156412,150,North America,22%,4700,1100
+2020,Q1,Paris Branch,Paris,Laptops,479589,231848,247741,100,Europe,12%,3100,680
+2020,Q1,Paris Branch,Paris,Mobile Devices,426466,245682,180784,100,Europe,15%,2900,640
+2020,Q1,Paris Branch,Paris,Consoles,404492,279748,124744,100,Europe,18%,3300,740
+2020,Q1,Sydney Branch,Sydney,Laptops,447816,281580,166236,70,Asia-Pacific,12%,2600,580
+2020,Q1,Sydney Branch,Sydney,Mobile Devices,407666,251309,156357,70,Asia-Pacific,15%,2400,540
+2020,Q1,Sydney Branch,Sydney,Consoles,411065,223830,187235,70,Asia-Pacific,18%,2800,620
+2020,Q1,Tokyo Branch,Tokyo,Laptops,422037,231650,190387,140,Asia-Pacific,20%,4100,900
+2020,Q1,Tokyo Branch,Tokyo,Mobile Devices,405790,279989,125801,140,Asia-Pacific,22%,3900,870
+2020,Q1,Tokyo Branch,Tokyo,Consoles,487283,234812,252471,140,Asia-Pacific,24%,4300,950
+2020,Q2,Berlin Branch,Berlin,Laptops,452469,213587,238882,110,Europe,16%,4000,950
+2020,Q2,Berlin Branch,Berlin,Mobile Devices,473629,242236,231393,110,Europe,20%,3800,920
+2020,Q2,Berlin Branch,Berlin,Consoles,435842,266553,169289,110,Europe,24%,4200,980
+2020,Q2,London Branch,London,Laptops,410820,283089,127731,115,Europe,16%,3550,780
+2020,Q2,London Branch,London,Mobile Devices,474700,229169,245531,115,Europe,20%,3350,730
+2020,Q2,London Branch,London,Consoles,419128,218852,200276,115,Europe,22%,3750,880
+2020,Q2,New York HQ,New York,Laptops,468220,208274,259946,135,North America,19%,4450,970
+2020,Q2,New York HQ,New York,Mobile Devices,444139,221498,222641,135,North America,21%,4250,920
+2020,Q2,New York HQ,New York,Consoles,414492,212400,202092,135,North America,23%,4650,1070
+2020,Q2,Paris Branch,Paris,Laptops,495218,252477,242741,90,Europe,14%,3050,660
+2020,Q2,Paris Branch,Paris,Mobile Devices,431428,257571,173857,90,Europe,17%,2850,620
+2020,Q2,Paris Branch,Paris,Consoles,441695,247097,194598,90,Europe,20%,3250,720
+2020,Q2,Sydney Branch,Sydney,Laptops,486837,248910,237927,70,Asia-Pacific,11%,2550,560
+2020,Q2,Sydney Branch,Sydney,Mobile Devices,499424,249270,250154,70,Asia-Pacific,14%,2350,520
+2020,Q2,Sydney Branch,Sydney,Consoles,478708,230804,247904,70,Asia-Pacific,17%,2750,620
+2020,Q2,Tokyo Branch,Tokyo,Laptops,423483,299187,124296,130,Asia-Pacific,18%,3950,870
+2020,Q2,Tokyo Branch,Tokyo,Mobile Devices,462393,245931,216462,130,Asia-Pacific,22%,3750,830
+2020,Q2,Tokyo Branch,Tokyo,Consoles,497580,210601,286979,130,Asia-Pacific,26%,4150,910
+2020,Q3,Berlin Branch,Berlin,Laptops,491168,211969,279199,110,Europe,14%,3900,920
+2020,Q3,Berlin Branch,Berlin,Mobile Devices,486651,230366,256285,110,Europe,18%,3700,880
+2020,Q3,Berlin Branch,Berlin,Consoles,401671,293443,108228,110,Europe,22%,4100,940
+2020,Q3,London Branch,London,Laptops,427116,268734,158382,100,Europe,15%,3400,720
+2020,Q3,London Branch,London,Mobile Devices,436285,276003,160282,100,Europe,18%,3200,680
+2020,Q3,London Branch,London,Consoles,458438,244581,213857,100,Europe,20%,3600,820
+2020,Q3,New York HQ,New York,Laptops,497865,292713,205152,140,North America,20%,4400,940
+2020,Q3,New York HQ,New York,Mobile Devices,476327,203847,272480,140,North America,18%,4200,890
+2020,Q3,New York HQ,New York,Consoles,454521,284310,170211,140,North America,21%,4600,1040
+2020,Q3,Paris Branch,Paris,Laptops,421498,266710,154788,75,Europe,10%,2950,640
+2020,Q3,Paris Branch,Paris,Mobile Devices,486377,217057,269320,75,Europe,13%,2750,600
+2020,Q3,Paris Branch,Paris,Consoles,490087,290699,199388,75,Europe,16%,3150,700
+2020,Q3,Sydney Branch,Sydney,Laptops,437689,259789,177900,80,Asia-Pacific,10%,2950,640
+2020,Q3,Sydney Branch,Sydney,Mobile Devices,436370,266091,170279,80,Asia-Pacific,13%,2750,600
+2020,Q3,Sydney Branch,Sydney,Consoles,404462,232153,172309,80,Asia-Pacific,16%,3150,700
+2020,Q3,Tokyo Branch,Tokyo,Laptops,463975,270956,193019,130,Asia-Pacific,16%,3800,820
+2020,Q3,Tokyo Branch,Tokyo,Mobile Devices,443539,292659,150880,130,Asia-Pacific,20%,3600,780
+2020,Q3,Tokyo Branch,Tokyo,Consoles,419796,231313,188483,130,Asia-Pacific,24%,4000,860
+2020,Q4,Berlin Branch,Berlin,Laptops,428478,293129,135349,120,Europe,17%,4000,930
+2020,Q4,Berlin Branch,Berlin,Mobile Devices,435284,264765,170519,120,Europe,21%,3800,890
+2020,Q4,Berlin Branch,Berlin,Consoles,404255,201279,202976,120,Europe,25%,4200,950
+2020,Q4,London Branch,London,Laptops,436203,242979,193224,130,Europe,16%,3800,850
+2020,Q4,London Branch,London,Mobile Devices,405205,221380,183825,130,Europe,20%,3600,800
+2020,Q4,London Branch,London,Consoles,401959,214715,187244,130,Europe,24%,4000,900
+2020,Q4,New York HQ,New York,Laptops,473594,287204,186390,170,North America,19%,4650,1020
+2020,Q4,New York HQ,New York,Mobile Devices,435241,274708,160533,170,North America,22%,4450,980
+2020,Q4,New York HQ,New York,Consoles,477743,219707,258036,170,North America,26%,4850,1040
+2020,Q4,Paris Branch,Paris,Laptops,466034,245722,220312,100,Europe,14%,3300,720
+2020,Q4,Paris Branch,Paris,Mobile Devices,412788,237150,175638,100,Europe,17%,3100,680
+2020,Q4,Paris Branch,Paris,Consoles,492259,292106,200153,100,Europe,20%,3500,780
+2020,Q4,Sydney Branch,Sydney,Laptops,449097,217291,231806,90,Asia-Pacific,14%,2800,620
+2020,Q4,Sydney Branch,Sydney,Mobile Devices,432507,239418,193089,90,Asia-Pacific,17%,2600,580
+2020,Q4,Sydney Branch,Sydney,Consoles,441104,299349,141755,90,Asia-Pacific,20%,3000,680
+2020,Q4,Tokyo Branch,Tokyo,Laptops,451349,230229,221120,150,Asia-Pacific,22%,4300,940
+2020,Q4,Tokyo Branch,Tokyo,Mobile Devices,428881,290531,138350,150,Asia-Pacific,25%,4100,910
+2020,Q4,Tokyo Branch,Tokyo,Consoles,456888,214767,242121,150,Asia-Pacific,28%,4500,980
+2021,Q1,Berlin Branch,Berlin,Laptops,401581,250259,151322,140,Europe,18%,4200,970
+2021,Q1,Berlin Branch,Berlin,Mobile Devices,488778,221630,267148,140,Europe,21%,4000,930
+2021,Q1,Berlin Branch,Berlin,Consoles,438732,244553,194179,140,Europe,25%,4400,990
+2021,Q1,London Branch,London,Laptops,427336,266324,161012,120,Europe,17%,3800,850
+2021,Q1,London Branch,London,Mobile Devices,401938,229506,172432,120,Europe,20%,3600,800
+2021,Q1,London Branch,London,Consoles,479021,280084,198937,120,Europe,24%,4000,900
+2021,Q1,New York HQ,New York,Laptops,481167,247012,234155,170,North America,19%,4650,1020
+2021,Q1,New York HQ,New York,Mobile Devices,414514,232448,182066,170,North America,22%,4450,980
+2021,Q1,New York HQ,New York,Consoles,466601,283251,183350,170,North America,26%,4850,1040
+2021,Q1,Paris Branch,Paris,Laptops,413441,214737,198704,110,Europe,14%,3300,720
+2021,Q1,Paris Branch,Paris,Mobile Devices,428610,236992,191618,110,Europe,17%,3100,680
+2021,Q1,Paris Branch,Paris,Consoles,463147,243206,219941,110,Europe,20%,3500,780
+2021,Q1,Sydney Branch,Sydney,Laptops,440752,216427,224325,90,Asia-Pacific,14%,2800,620
+2021,Q1,Sydney Branch,Sydney,Mobile Devices,446724,209321,237403,80,Asia-Pacific,17%,2600,580
+2021,Q1,Sydney Branch,Sydney,Consoles,471491,271477,200014,100,Asia-Pacific,20%,3000,680
+2021,Q1,Tokyo Branch,Tokyo,Laptops,496893,200002,296891,140,Asia-Pacific,22%,4300,940
+2021,Q1,Tokyo Branch,Tokyo,Mobile Devices,454350,225468,228882,130,Asia-Pacific,25%,4100,910
+2021,Q1,Tokyo Branch,Tokyo,Consoles,400736,240407,160329,150,Asia-Pacific,28%,4500,980
+2021,Q2,Berlin Branch,Berlin,Laptops,400602,256110,144492,120,Europe,17%,4000,930
+2021,Q2,Berlin Branch,Berlin,Mobile Devices,461237,270016,191221,110,Europe,21%,3800,890
+2021,Q2,Berlin Branch,Berlin,Consoles,466844,215657,251187,130,Europe,25%,4200,950
+2021,Q2,London Branch,London,Laptops,487620,291745,195875,130,Europe,16%,3800,850
+2021,Q2,London Branch,London,Mobile Devices,438187,243957,194230,120,Europe,20%,3600,800
+2021,Q2,London Branch,London,Consoles,441645,203603,238042,140,Europe,24%,4000,900
+2021,Q2,New York HQ,New York,Laptops,478533,272232,206301,160,North America,19%,4650,1020
+2021,Q2,New York HQ,New York,Mobile Devices,426212,221642,204570,150,North America,22%,4450,980
+2021,Q2,New York HQ,New York,Consoles,448427,228123,220304,170,North America,26%,4850,1040
+2021,Q2,Paris Branch,Paris,Laptops,412579,261370,151209,110,Europe,14%,3300,720
+2021,Q2,Paris Branch,Paris,Mobile Devices,472429,235494,236935,100,Europe,17%,3100,680
+2021,Q2,Paris Branch,Paris,Consoles,451677,225823,225854,120,Europe,20%,3500,780
+2021,Q2,Sydney Branch,Sydney,Laptops,492790,222151,270639,90,Asia-Pacific,14%,2800,620
+2021,Q2,Sydney Branch,Sydney,Mobile Devices,490582,232872,257710,80,Asia-Pacific,17%,2600,580
+2021,Q2,Sydney Branch,Sydney,Consoles,426295,218242,208053,100,Asia-Pacific,20%,3000,680
+2021,Q2,Tokyo Branch,Tokyo,Laptops,468094,258832,209262,140,Asia-Pacific,22%,4300,940
+2021,Q2,Tokyo Branch,Tokyo,Mobile Devices,479559,287919,191640,130,Asia-Pacific,25%,4100,910
+2021,Q2,Tokyo Branch,Tokyo,Consoles,479765,206064,273701,150,Asia-Pacific,28%,4500,980
+2021,Q3,Berlin Branch,Berlin,Laptops,462105,254520,207585,130,Europe,18%,4200,970
+2021,Q3,Berlin Branch,Berlin,Mobile Devices,429377,238238,191139,120,Europe,21%,4000,930
+2021,Q3,Berlin Branch,Berlin,Consoles,482973,282624,200349,140,Europe,25%,4400,990
+2021,Q3,London Branch,London,Laptops,486490,224606,261884,130,Europe,16%,3800,850
+2021,Q3,London Branch,London,Mobile Devices,469192,252878,216314,120,Europe,20%,3600,800
+2021,Q3,London Branch,London,Consoles,404878,245857,159021,140,Europe,24%,4000,900
+2021,Q3,New York HQ,New York,Laptops,462141,251662,210479,160,North America,19%,4650,1020
+2021,Q3,New York HQ,New York,Mobile Devices,403971,242591,161380,150,North America,22%,4450,980
+2021,Q3,New York HQ,New York,Consoles,454516,224941,229575,170,North America,26%,4850,1040
+2021,Q3,Paris Branch,Paris,Laptops,483844,241433,242411,110,Europe,14%,3300,720
+2021,Q3,Paris Branch,Paris,Mobile Devices,413110,279879,133231,100,Europe,17%,3100,680
+2021,Q3,Paris Branch,Paris,Consoles,454630,255357,199273,120,Europe,20%,3500,780
+2021,Q3,Sydney Branch,Sydney,Laptops,402132,276948,125184,90,Asia-Pacific,14%,2800,620
+2021,Q3,Sydney Branch,Sydney,Mobile Devices,480833,243697,237136,80,Asia-Pacific,17%,2600,580
+2021,Q3,Sydney Branch,Sydney,Consoles,449250,256342,192908,100,Asia-Pacific,20%,3000,680
+2021,Q3,Tokyo Branch,Tokyo,Laptops,496098,238306,257792,140,Asia-Pacific,22%,4300,940
+2021,Q3,Tokyo Branch,Tokyo,Mobile Devices,438901,254168,184733,130,Asia-Pacific,25%,4100,910
+2021,Q3,Tokyo Branch,Tokyo,Consoles,404725,222577,182148,150,Asia-Pacific,28%,4500,980
+2021,Q4,Berlin Branch,Berlin,Laptops,473500,285530,187970,120,Europe,17%,4000,930
+2021,Q4,Berlin Branch,Berlin,Mobile Devices,424319,290937,133382,110,Europe,20%,3800,890
+2021,Q4,Berlin Branch,Berlin,Consoles,418726,228935,189791,130,Europe,24%,4200,950
+2021,Q4,London Branch,London,Laptops,490458,273217,217241,120,Europe,15%,3600,800
+2021,Q4,London Branch,London,Mobile Devices,492161,293535,198626,110,Europe,18%,3400,750
+2021,Q4,London Branch,London,Consoles,490512,226770,263742,130,Europe,20%,3800,900
+2021,Q4,New York HQ,New York,Laptops,448950,262367,186583,160,North America,19%,4650,1020
+2021,Q4,New York HQ,New York,Mobile Devices,486106,224278,261828,150,North America,22%,4450,980
+2021,Q4,New York HQ,New York,Consoles,451519,284116,167403,170,North America,26%,4850,1040
+2021,Q4,Paris Branch,Paris,Laptops,422633,242018,180615,100,Europe,12%,3100,680
+2021,Q4,Paris Branch,Paris,Mobile Devices,446778,280741,166037,90,Europe,15%,2900,640
+2021,Q4,Paris Branch,Paris,Consoles,467395,201510,265885,110,Europe,18%,3300,740
+2021,Q4,Sydney Branch,Sydney,Laptops,450515,221352,229163,80,Asia-Pacific,12%,2600,580
+2021,Q4,Sydney Branch,Sydney,Mobile Devices,403569,273764,129805,70,Asia-Pacific,15%,2400,540
+2021,Q4,Sydney Branch,Sydney,Consoles,404055,211515,192540,90,Asia-Pacific,18%,2800,620
+2021,Q4,Tokyo Branch,Tokyo,Laptops,423518,233806,189712,140,Asia-Pacific,20%,4100,900
+2021,Q4,Tokyo Branch,Tokyo,Mobile Devices,430699,227677,203022,130,Asia-Pacific,22%,3900,870
+2021,Q4,Tokyo Branch,Tokyo,Consoles,482957,288739,194218,150,Asia-Pacific,24%,4300,950
