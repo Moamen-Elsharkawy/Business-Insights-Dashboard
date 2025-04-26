@@ -112,5 +112,8 @@ Open the link in your browser.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+## 🌟 Important Note:
 
+ The dashboard is powered by generated sample data to showcase functionality — no real-world company data is used.
+ 
 # 🚀 Enjoy Using the Business Insights Dashboard!
